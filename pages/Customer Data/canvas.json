@@ -1563,7 +1563,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Customer Data_FindQuery",
               "name": "FindQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
