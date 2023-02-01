@@ -77,7 +77,7 @@
               "key": "pmtb9bkumj",
               "labelTextSize": "0.875rem",
               "isDeprecated": false,
-              "rightColumn": 21,
+              "rightColumn": 42,
               "widgetId": "xpeld8aco8",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
